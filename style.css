@@ -23,6 +23,22 @@ a.nav-link{
     font-family: Georgia;
     font-size: 15px;
 }
+#cart {
+    color: #fff;
+    background: #c7b200;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    outline:   #cnone;
+    margin-left: 1rem;
+    padding: 12px;
+}
+
+#cart:hover {
+    border-color: #fff;
+}
+
+
+
 .carousel-inner{
     width: 728px;
     height: 500px;
